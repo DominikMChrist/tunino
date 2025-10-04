@@ -1,0 +1,24 @@
+[project]
+name = "tunino"
+version = "0.1.0"
+description = "Stories and tunes, the open way."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.3.0",
+    "dynaconf>=3.2.11",
+    "gpiozero>=2.0.1",
+    "loguru>=0.7.3",
+    "mfrc522>=0.0.7",
+    "python-mpd2>=3.1.1",
+    "rpi-lgpio>=0.6",
+]
+
+[project.scripts]
+app = "tunino.app:main"
+
+[tool.uv]
+package = true
+
+[tool.ruff]
+line-length = 120 
