@@ -3,7 +3,7 @@
         "log_level": "INFO",
         "initial_volume": 80,
         "play_pause_button_pin": 26,
-        "volume_up_button_pin": 12,
+        "volume_up_button_pin": 4,
         "volume_down_button_pin": 5,
         "poweroff_button_pin": 16,
         "sound_device": "plughw:CARD=Device,DEV=0",
