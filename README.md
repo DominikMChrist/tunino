@@ -1,6 +1,10 @@
 # tunino
-Stories and tunes, the open way.
+** Stories and tunes, the open way. **
 
+Tunino completed:
+![A photograph of completed Tunino box](assets/tunino_in_box.jpg)
+
+Tunino inside:
 ![A photograph of my unpacked Tunino setup](assets/tunino_unpacked.jpg)
 
 ### What is it?
